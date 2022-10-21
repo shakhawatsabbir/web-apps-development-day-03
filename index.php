@@ -6,4 +6,5 @@ use App\classes\hello;
 $hello = new hello();
 $hello->index();
 
+
 ?>
